@@ -36,6 +36,8 @@ Prompt 8: Why did you choose the DJB2 algorithm the optimal choice for this spec
 Prompt : Good. Can you show me the code implementation in python for this??
 
 ### 4. Worked Examples
+
+![Output Image](output.png)
 **Example 1:**
 - Plaintext: HELLO
 - Key: Shift 1
